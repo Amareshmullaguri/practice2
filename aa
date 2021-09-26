@@ -10,3 +10,8 @@ f=a/b
 g=a
 #added kne odjsdj 
 print(c)
+<<<<<<< HEAD
+=======
+
+#comment lienis assed
+>>>>>>> test2
