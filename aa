@@ -1,14 +1,12 @@
-<<<<<<< HEAD
+
 h=6
-=======
 a=6
 aa=11
->>>>>>> test2
 b=2
 c=a+b
 d=a*b
 e=a-b
 f=a/b
 g=a
+#added kne odjsdj 
 print(c)
-
