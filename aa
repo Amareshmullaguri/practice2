@@ -1,4 +1,7 @@
-a=2
+
+h=6
+a=6
+aa=11
 b=2
 c=a+b
 d=a*b
@@ -6,4 +9,6 @@ e=a-b
 f=a/b
 g=a
 print(c)
+ashsygdsdsjkds
 
+local repo added
